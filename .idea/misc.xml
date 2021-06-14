@@ -4,7 +4,5 @@
     <file type="Python" url="file://$PROJECT_DIR$/src/__init__.py" />
     <file type="Python" url="file://$PROJECT_DIR$/tests/__init__.py" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="" project-jdk-type="Python SDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.7.3 (sftp://root@192.168.1.137:22/root/UARTServer/venv/bin/python)" project-jdk-type="Python SDK" />
 </project>
